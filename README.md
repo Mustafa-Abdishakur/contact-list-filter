@@ -1,1 +1,1 @@
-Contact list editor
+Contact list filter
