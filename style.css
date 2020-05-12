@@ -36,9 +36,14 @@ h3{
     color:var(--main-color);
     font-size:25px;
 }
+.contact-container{
+    display:grid;
+    grid-template-columns: repeat(6,1fr);
+}
 .contact-container ul{
     list-style-type: none;
     margin-left:-10px;
+
 }
 .contact-container ul li{
     font-size:18px;
